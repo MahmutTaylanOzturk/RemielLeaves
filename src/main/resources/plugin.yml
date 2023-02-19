@@ -1,0 +1,8 @@
+name: RemielLeaves
+version: '${project.version}'
+main: com.taylan.leaves.Leaves
+api-version: 1.19
+authors: [ Taylan ]
+description: Remiel Yaprak Düşme Eklentisi
+commands:
+  leavesreload:
